@@ -16,7 +16,7 @@
   <code><img height="30" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/React.Png"></code>
   <code><img height="30" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Angular.png"></code>
   <code><img height="30" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/BootStrap.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
+  <code><img height="30" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/jquery.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 
 #### 👨🏻‍💻 Previous Languages and Tools
