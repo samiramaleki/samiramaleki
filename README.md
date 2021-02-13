@@ -14,7 +14,7 @@
   <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Docker.Png"></code>
   <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Docker1.Png"></code>
   <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/React.Png"></code>
-  <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Angular.png"></code>
+  <code><img height="60" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Angular.png"></code>
   <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/BootStrap.png"></code>
   <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Jquery.png"></code>
   <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Ajax.png"></code>
