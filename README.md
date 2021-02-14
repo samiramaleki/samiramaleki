@@ -17,7 +17,7 @@
    <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/EfCore.png"></code>
      <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/json.png"></code>
        <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Xamarin.png"></code>
-
+  <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/VB.png"></code>
 
 
 #### 👨🏻‍💻 Previous Languages and Tools
