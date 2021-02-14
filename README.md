@@ -15,6 +15,8 @@
   <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/Ajax.png"></code>
   <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/TSQL.png"></code>
    <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/EfCore.png"></code>
+     <code><img height="40" src="https://github.com/samiramaleki/samiramaleki/blob/Logos/Logos/json.png"></code>
+
 
 
 #### 👨🏻‍💻 Previous Languages and Tools
