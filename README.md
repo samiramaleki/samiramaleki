@@ -5,6 +5,7 @@
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/samira-maleki/)
   
 #### 👨🏻‍💻 Current Languages and Tools
+ <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/CSharp.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Core.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/EfCore.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/TSQL.png"></code>
