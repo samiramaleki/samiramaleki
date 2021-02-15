@@ -7,7 +7,7 @@
 #### 👨🏻‍💻 Current Languages and Tools
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Core.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/EfCore.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/TSQL.png"></code
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/TSQL.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Docker.Png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Docker1.Png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/BootStrap.png"></code>
