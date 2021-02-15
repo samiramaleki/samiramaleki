@@ -16,10 +16,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/RestFule.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Git.png"></code>  
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Xamarin.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/BootStrap.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Jquery.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Ajax.png"></code>
-
+ 
  
 
 
@@ -30,3 +27,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/VB.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/WCF.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/MVC.png"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/BootStrap.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Jquery.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Ajax.png"></code>
+
