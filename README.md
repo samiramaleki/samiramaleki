@@ -1,25 +1,34 @@
 - 👋 Hello World!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 
 
 #### 📫 How to reach me:   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/samira-maleki/)
   
 #### 👨🏻‍💻 Current Languages and Tools
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+ <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/CSharp.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Core.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/EfCore.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/gRpc.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/TSQL.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Docker.Png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Docker1.Png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Swagger.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/json.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/RestFule.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Git.png"></code>  
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Xamarin.png"></code>
+ 
+ 
 
+
+ 
+ 
 #### 👨🏻‍💻 Previous Languages and Tools
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/VB.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/WCF.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/MVC.png"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/BootStrap.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Jquery.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/samiramaleki/samiramaleki/Logos/Logos/Ajax.png"></code>
 
